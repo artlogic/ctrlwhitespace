@@ -4,6 +4,7 @@ Whitespace is a minimal and responsive theme for [Octopress](http://octopress.or
 
 Check out the theme in action [here](http://lucaslew.com).
 
+Minor modifications made by James Kruth for http://blog.ctrlreset.com.
 
 Install
 -------
