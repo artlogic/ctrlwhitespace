@@ -154,6 +154,12 @@ article {
 		}
 	}
 
+	.page {
+	        article {
+	                padding-top: 0;
+	        }
+	}
+
 	.hentry {
 		h1.entry-title {
 			font-family: $heading-font-family;
